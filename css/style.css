@@ -1,0 +1,56 @@
+.container{
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    margin-left: 400px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hoofdtitel{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.p1{
+    font-family: 'Roboto', sans-serif;
+    font-size:  24px;
+    line-height: 26px;
+}
+
+p li{
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.midT{
+    font-size: 32px;
+    line-height: 32px;
+}
+
+h2 p li{
+    margin-bottom: 40px;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
+
+ol li{
+    margin-bottom: 20px;
+}
+
+.Tip{
+    background-color:#def6ed;
+    padding: 10px;    
+    height: 50px;
+    border-radius: 4px;
+    margin-top: 25px;
+    margin-bottom:  25px;
+}
+
+a{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+
