@@ -42,7 +42,26 @@ ol li{
 
 .Tip a{
     font-size: large;
-    
+}
+
+nav {
+    background-color: #def6ed;
+    border-radius: 4px;
+    margin:40px 0 25px 0;
+    padding: 25px;
+}
+
+nav a{
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav a:hover{
+    transition: 1s;
+    border: 5px solid white;
 }
 
 
