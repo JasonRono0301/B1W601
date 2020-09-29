@@ -1,8 +1,7 @@
 .container{
     display: block;
-    width: 800px;
+    width: 800px;  
     margin: 0 auto;
-    margin-left: 400px;
     font-family: 'Roboto', sans-serif;
 }
 
