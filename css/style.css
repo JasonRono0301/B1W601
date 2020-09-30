@@ -35,7 +35,7 @@ ol li{
 .Tip{
     background-color: #def6ed;
     border-radius: 4px;
-    margin:40px 0 25px 0;
+    margin: 40px 0 25px 0;
     padding: 25px;
 }
 
@@ -46,21 +46,21 @@ ol li{
 nav {
     background-color: #def6ed;
     border-radius: 4px;
-    margin:40px 0 25px 0;
-    padding: 25px;
+    margin: 40px 0 20px 0;
+    padding: 20px;
 }
 
 nav a{
     font-size: large;
     text-decoration: none;
     color: black;
-    margin-left: 100px;
+    margin-left: 110px;
     font-family: 'Roboto', sans-serif;
 }
 
 nav a:hover{
-    transition: 1s;
-    border: 5px solid white;
+    border: 20px solid white;
+    background-color: white;
 }
 
 
